@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://[name]/./helpers/login.js"],"names":["login","alert"],"mappings":";;;;2DAAO,SAASA,IACZC,MAAM,SADV","file":"2.js","sourcesContent":["export function login() {\r\n    alert('login');\r\n}\r\n"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://[name]/./routes/feedback.js"],"names":["alert"],"mappings":";;;;4CAAAA,MAAM","file":"4.js","sourcesContent":["alert('feedback page')\r\n"],"sourceRoot":""}
